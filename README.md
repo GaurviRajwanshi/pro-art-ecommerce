@@ -18,7 +18,7 @@ This is an interactive SPA, with all the basic and some advanced features of an 
 
 # Link to the website
 
-- https://csb-04c1h.netlify.app/
+- https://csb-n7ekb.netlify.app/
 
 # ReactJs
 
